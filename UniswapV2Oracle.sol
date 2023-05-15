@@ -1,5 +1,6 @@
 pragma solidity >=0.6.6;
-
+// SOURCE: Compound Oracle Design We used to following GitHub Repo to aid with the implementation of the Uniswap V2 Oracle 
+// GITHUB REPO: https://github.com/Uniswap/v2-periphery/blob/master/contracts/examples/ExampleOracleSimple.sol
 import '@uniswap/v2-core/contracts/interfaces/IUniswapV2Factory.sol';
 import '@uniswap/v2-core/contracts/interfaces/IUniswapV2Pair.sol';
 import '@uniswap/lib/contracts/libraries/FixedPoint.sol';
